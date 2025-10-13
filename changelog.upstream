@@ -1,3 +1,22 @@
+commit c047245b2fcfece02a7ffaffdea6a72d04f8340d
+Merge: 95633b7 d27d4d7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Oct 13 09:22:38 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit d27d4d7839552a7c970147c1edcd1561c2d7c51f
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Sat Oct 11 23:06:15 2025 -0500
+
+    Enable merged config in labwc
+
+commit 95633b7d263cdcee684326fc40f42c1bd3fa42cd
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Sep 5 08:02:39 2025 +0000
+
+    bumped changelog version
+
 commit d84b48c67b51da0da6a770242a8592cde3d25557
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Sep 5 04:02:38 2025 -0400
