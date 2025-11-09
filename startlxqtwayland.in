@@ -106,10 +106,12 @@ elif [ "$COMPOSITOR" = "labwc" ]; then
     #fi
 
     # enable cursor on VM (systemd only)
-    if type systemd-detect-virt > /dev/null 2>&1 && systemd-detect-virt --quiet; then
-        export WLR_NO_HARDWARE_CURSORS=1
-        echo "Running on virtualized hardware"
-    fi
+    # Patched out by Kicksecure to not disable hardware cursors. These work on
+    # both VirtualBox and KVM without problems.
+    #if type systemd-detect-virt > /dev/null 2>&1 && systemd-detect-virt --quiet; then
+    #    export WLR_NO_HARDWARE_CURSORS=1
+    #    echo "Running on virtualized hardware"
+    #fi
 
     # Patched by Kicksecure to allow labwc to use system-wide configuration.
     # See: https://github.com/lxqt/lxqt-wayland-session/issues/83
