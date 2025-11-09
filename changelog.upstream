@@ -1,3 +1,22 @@
+commit 402fc0f256bc39677241f9fd6b55fa62a5df113f
+Merge: 59692e1 5ec8833
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Nov 9 03:03:08 2025 -0500
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit 5ec883394f65050d80844c3917dc48df1cbda581
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Sat Nov 8 20:05:18 2025 -0600
+
+    Do not disable hardware cursors in virtual machines
+
+commit 59692e17087788cfad9edff0d134463b015cca8e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Oct 13 13:51:26 2025 +0000
+
+    bumped changelog version
+
 commit c047245b2fcfece02a7ffaffdea6a72d04f8340d
 Merge: 95633b7 d27d4d7
 Author: Patrick Schleizer <adrelanos@whonix.org>
