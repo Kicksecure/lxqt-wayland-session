@@ -1,3 +1,9 @@
+lxqt-wayland-session (0.2.5-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Sun, 11 Jan 2026 16:25:58 +0000
+
 lxqt-wayland-session (0.2.4-1) unstable; urgency=medium
 
   * New upstream version (local package).
