@@ -1,3 +1,17 @@
+commit d7a8158f7952e409394d0e03eb3ae1e87124fc86
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Jan 13 03:01:05 2026 -0500
+
+    Revert "typo"
+    
+    This reverts commit 3500725045c0a0c93a3199e0d19b980eb946bf05.
+
+commit 3eec23fedcf422462cd6c5217e8772666766d058
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jan 11 16:25:58 2026 +0000
+
+    bumped changelog version
+
 commit 3500725045c0a0c93a3199e0d19b980eb946bf05
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sun Jan 11 10:50:37 2026 -0500
