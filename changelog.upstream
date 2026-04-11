@@ -1,3 +1,22 @@
+commit 285434b904e9c5db9ced375f0b12de45981acc96
+Merge: 1486aaf 8f4af16
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Apr 11 03:38:24 2026 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit 8f4af164a522781d20bbf8b6ded4a79d96d929c2
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Fri Apr 10 18:13:37 2026 -0400
+
+    Remove Emacs modelines
+
+commit 1486aafd9130dea3d2a6ff2a25a1104f8a43adf4
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Mar 29 08:18:24 2026 +0000
+
+    bumped changelog version
+
 commit 55f7a215ba5e52fa5f61e949930075e662eb1afc
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sun Mar 29 02:07:30 2026 -0400
