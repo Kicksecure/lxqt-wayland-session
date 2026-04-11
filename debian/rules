@@ -1,5 +1,4 @@
 #!/usr/bin/make -f
-# -*- makefile -*-
 export DEB_BUILD_MAINT_OPTIONS = hardening=+all
 
 %:
